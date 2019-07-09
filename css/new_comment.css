@@ -1,0 +1,90 @@
+body{
+    background-image: url("../images/main2.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.comment_box{
+    font-weight: bold;
+    border: solid 2px  black;
+    opacity: 0.9;
+    background: slategray;
+    position: relative;
+    margin: 150px auto;
+    width: 500px;
+    height: 300px;
+    padding-top: 10px;
+
+}
+.comment_box textarea{
+    margin-top: 10px;
+    text-align: left;
+
+}
+.comment_box input{
+    text-align: center;
+    width:495px;
+}
+.comment_box label{
+    color: white;
+    position: relative;
+}
+#write_comment{
+    color: white;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

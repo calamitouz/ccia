@@ -1,0 +1,17 @@
+body{
+    background: white;
+    background-image: url("../images/loginb.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.login_input  {
+ width: 300px;
+    border: solid 3px black;
+    background: black;
+    opacity: 0.9;
+}
+.login_input label{
+
+    color: white;
+}
